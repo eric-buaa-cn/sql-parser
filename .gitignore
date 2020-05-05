@@ -3,6 +3,12 @@ utils/
 bin/
 lib-test/
 
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-sql-parser
+bazel-testlogs
+
 # Compiled Object files
 *.slo
 *.lo
